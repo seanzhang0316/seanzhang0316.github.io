@@ -15,10 +15,10 @@
     
     <item>
       <title>Java String 类学习</title>
-      <link>https://seanzhang0316.github.io/posts/2017-05-08-string-source/</link>
+      <link>https://seanzhang0316.github.io/posts/string-source/</link>
       <pubDate>Sun, 11 Oct 2015 18:46:51 +0800</pubDate>
       <author>zhang.xiang1991@gmail.com (Sean Zhang)</author>
-      <guid>https://seanzhang0316.github.io/posts/2017-05-08-string-source/</guid>
+      <guid>https://seanzhang0316.github.io/posts/string-source/</guid>
       <description>概述 String 类位于 java.lang 包下， java.lang 这个包里面放置的所有类构成了 Java 编程语言的基石。跟 String 类同在一包下面的类还有两个 String 类的生成类: StringBuffer、StringBuilder，稍后会谈到它们之间的关系。
 String 表示字符串，在 Java 中所有字符串的字面量（双引号中的字符串）都是 String 的实例，例如“abc”。String 对象是常量，在定义之后不能被改变，Stringbuild、StringBuffer 支持可变的字符串。正因为 String 对象是不可变的，所以可以是可共享的。一旦 String 对象被初始化，那么这个对象直到被 JVM 回收都不会发生改变。为了操作方便 Java 语言还重写了“+”操作符为连接操作符。当然，这虽然带来了便利，但也有不好的一面，当我们每使用一次 “+” 来连结两个字符串变量时，每进行一次 “+” 操作都会生成一个临时的字符串对象来存储运算过程中的中间值，造成性能低下。于是也就催生了 StringBuffer 以及后面的 StringBuilder 的诞生。
 以下片段给出了 String 类的定义：
