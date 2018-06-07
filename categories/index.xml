@@ -30,5 +30,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Java</title>
+      <link>https://seanzhang0316.github.io/categories/java/</link>
+      <pubDate>Fri, 10 Jun 2016 19:25:08 +0800</pubDate>
+      <author>zhang.xiang1991@gmail.com (Sean Zhang)</author>
+      <guid>https://seanzhang0316.github.io/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>源码</title>
+      <link>https://seanzhang0316.github.io/categories/%E6%BA%90%E7%A0%81/</link>
+      <pubDate>Fri, 10 Jun 2016 19:25:08 +0800</pubDate>
+      <author>zhang.xiang1991@gmail.com (Sean Zhang)</author>
+      <guid>https://seanzhang0316.github.io/categories/%E6%BA%90%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

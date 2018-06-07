@@ -32,6 +32,15 @@
     </item>
     
     <item>
+      <title>Java String 类学习</title>
+      <link>https://seanzhang0316.github.io/posts/string-source/</link>
+      <pubDate>Fri, 10 Jun 2016 19:25:08 +0800</pubDate>
+      <author>zhang.xiang1991@gmail.com (Sean Zhang)</author>
+      <guid>https://seanzhang0316.github.io/posts/string-source/</guid>
+      <description>概述 String 类位于 java.lang 包下， java.lang 这个包里面放置的所有类构成了 Java 编程语言的基石。跟 String 类同在一包下面的类还有两个 String 类的生成类: StringBuffer、S</description>
+    </item>
+    
+    <item>
       <title>IDEA安装路径</title>
       <link>https://seanzhang0316.github.io/posts/idea-default-directories/</link>
       <pubDate>Sat, 04 Jun 2016 20:45:38 +0800</pubDate>

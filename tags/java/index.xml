@@ -8,6 +8,7 @@
     <language>zh-cn</language>
     <managingEditor>zhang.xiang1991@gmail.com (Sean Zhang)</managingEditor>
     <webMaster>zhang.xiang1991@gmail.com (Sean Zhang)</webMaster>
+    <lastBuildDate>Fri, 10 Jun 2016 19:25:08 +0800</lastBuildDate>
     
 	<atom:link href="https://seanzhang0316.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
     <item>
       <title>Java String 类学习</title>
       <link>https://seanzhang0316.github.io/posts/string-source/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jun 2016 19:25:08 +0800</pubDate>
       <author>zhang.xiang1991@gmail.com (Sean Zhang)</author>
       <guid>https://seanzhang0316.github.io/posts/string-source/</guid>
       <description>概述 String 类位于 java.lang 包下， java.lang 这个包里面放置的所有类构成了 Java 编程语言的基石。跟 String 类同在一包下面的类还有两个 String 类的生成类: StringBuffer、S</description>
